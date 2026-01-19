@@ -7,7 +7,7 @@ This project demonstrates how to generate and visualize a **rose curve** (also k
 ## 📖 How It Works
 
 1. **Angle Range**  
-   - We define `theta` as a set of angles from `0` to `2π`.  
+   - We define `theta` as a set of angles from `0` to `2π`.  (example of using my 1bac sm lessons "Calcule tigonometrique ")
    - This gives us the domain for plotting the curve.
 
 2. **Rose Curve Function**  
