@@ -39,6 +39,8 @@ For `k = 5`, the plot generates a flower with **5 petals**:
 ```python
 k = 5
 ```
-5.**Installation **
-```pip install numpy matplotlib```
+5.**Installation**
+```python
+pip install numpy matplotlib
+```
 
