@@ -43,4 +43,7 @@ k = 5
 ```python
 pip install numpy matplotlib
 ```
+6.**This is an example with k = 20:**
+<img width="593" height="671" alt="image" src="https://github.com/user-attachments/assets/7d82f89f-2c11-4ac1-a943-ffe1452b7e07" />
+
 
